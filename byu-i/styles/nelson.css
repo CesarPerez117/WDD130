@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-color: palevioletred;
+}
+
+#FirstParagraph {
+    color: aliceblue;
+}
+
+h2 {
+    color: white;
+    font-size: 1em;
+}
+
+#SecondParagraph {
+    text-align: left;
+    font-size: large;
+    display: block;
+    width: 600px;
+    margin: 10px auto;
+}
+
+#ThirdParagraph {
+    color: aliceblue;
+    font-size: 1.5em;
+    width: 40%;
+    margin: 30px auto;
+}
+
+img {
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+}
+
+footer {
+    text-align: center;
+    font-size: 1em;
+    width: 70%;
+    margin: 40px auto;
+}
