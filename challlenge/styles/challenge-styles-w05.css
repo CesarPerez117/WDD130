@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+.banner {
+    text-align: center;
+    width: 100%;
+    padding: 0;
+}
+
+.images-container {
+    display: block;
+    text-align: center;
+    background-color: rgb(74, 79, 83);
+    margin: 0;
+}
+
+.icon {
+    width: 200px;
+    margin: 100px;
+}
+
+.images-container {
+    margin: 0;
+    padding: auto;
+}
