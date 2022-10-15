@@ -1,30 +1,28 @@
 body{
     margin: 0;
-    min-width: 0%;
-    max-width: 100%;
 }
 
 .banner {
     text-align: center;
     width: 100%;
+    height: 400px;
     padding: 0;
+    margin: 0;
 }
 
 .images-container {
     display: block;
+    height: 380px;
     text-align: center;
     background-color: rgb(74, 79, 83);
     margin: 0;
+    padding: auto;
 }
 
 .icon {
     width: 200px;
     margin: 100px;
+    margin-bottom: 0;
     border-radius: 150px;
     border: 10px solid rgb(127, 131, 134);
-}
-
-.images-container {
-    margin: 0;
-    padding: auto;
 }
