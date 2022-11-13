@@ -97,9 +97,13 @@ main {
     border-radius: 20%;
 } 
 .rivers-msg, h4 {
+    margin-top: 50px;
+    margin-bottom: 50px;
     font-family: 'Lato', sans-serif;
 }
 .rivers-msg, h5 {
+    margin-top: 80px;
+    margin-bottom: 50px;
     font-family: 'Oswald', sans-serif;
 }
 
@@ -122,9 +126,13 @@ main {
     border-radius: 20%;
 }
 .camping-msg, h4 {
+    margin-top: 50px;
+    margin-bottom: 50px;
     font-family: 'Lato', sans-serif;
 }
 .camping-msg, h5 {
+    margin-top: 60px;
+    margin-bottom: 50px;
     font-family: 'Oswald', sans-serif;
 }
 
@@ -147,9 +155,13 @@ main {
     border-radius: 20%;
 }
 .rapids-msg, h4 {
+    margin-top: 50px;
+    margin-bottom: 50px;
     font-family: 'Lato', sans-serif;
 }
 .rapids-msg, h5 {
+    margin-top: 60px;
+    margin-bottom: 50px;
     font-family: 'Oswald', sans-serif;
 }
 
