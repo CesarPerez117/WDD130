@@ -30,12 +30,11 @@ nav {
 nav, a {
     text-align: center;
     color: white;
-    padding: .75em .75em;
     line-height: 1em;
     font-family: 'Lato', serif;
     font-size: 1em;
     text-decoration: none;
-    padding: 35px;
+    padding: 5px;
 }
 
 nav a:hover {
