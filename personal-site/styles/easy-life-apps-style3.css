@@ -181,3 +181,9 @@ footer {
     text-decoration: none;
     border: 5px solid #6a994e;
 }
+
+@media screen and (max-width: 900px) {
+    nav, footer {
+        flex-direction: column;
+    }
+}

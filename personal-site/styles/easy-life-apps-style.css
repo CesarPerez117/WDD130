@@ -221,3 +221,30 @@ footer {
     text-decoration: none;
     border: 5px solid #6a994e;
 }
+
+
+@media screen and (max-width: 900px) {
+    nav, footer {
+        flex-direction: column;
+    }
+    .home-title {
+        text-align: center;
+        font-size: 25px;
+    }
+    #background {
+        display: none;
+    }
+    .free-top-1, .free-top-2, .free-top-3, .paid-top-1, .paid-top-2, .paid-top-3  {
+        margin: 50px auto;
+        width: 80%;
+        height: 30%;
+    }
+    body, .home-grid {
+        display: block;
+        height: auto;
+    }
+    nav a {
+        display: block;
+        padding: 15px;
+    }
+}
