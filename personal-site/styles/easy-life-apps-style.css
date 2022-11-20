@@ -37,6 +37,12 @@ nav, a {
 
 }
 
+nav a:hover {
+    background-color: #a7c957;
+    color: black;
+    border-radius: 50px;
+}
+
 #invitation-msg {
     display: grid;
     grid-template-columns: repeat(6,0.5fr);
@@ -146,6 +152,16 @@ nav, a {
     background-color: #6a994e;
     border: 5px solid #386641;
     font-family: 'Lato', sans-serif;
+}
+
+.free-top-1:hover, .free-top-2:hover, .free-top-3:hover {
+    opacity: .6;
+    transform: scale(1.1);
+}
+
+.paid-top-1:hover, .paid-top-2:hover, .paid-top-3:hover {
+    opacity: .6;
+    transform: scale(1.1);
 }
 
 .free-top-1, .free-top-2, .free-top-3, .paid-top-1, .paid-top-2, .paid-top-3 {
