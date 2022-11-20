@@ -239,6 +239,11 @@ footer {
         width: 80%;
         height: 30%;
     }
+    .free-top-1-msg, .free-top-2-msg, .free-top-3-msg, .paid-top-1-msg, .paid-top-2-msg, .paid-top-3-msg {
+        margin: 50px auto;
+        width: 80%;
+        height: 30%;
+    }
     body, .home-grid {
         display: block;
         height: auto;
