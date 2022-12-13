@@ -18,6 +18,7 @@ header {
     display: grid;
     grid-template-columns: 100px auto;
     border: 5px solid #6a994e;
+    border-radius: 10px;
 }
 nav {
     padding: 1em;
